@@ -6,7 +6,7 @@
 
 ## Description
 
-Create an app that will check 3 user input numbers to make sure that they can be a triangle then return what type of triangle they would be.
+This application will identify whether a word is a palindrome.
 
 ## Setup/Installation Requirements
 
@@ -26,11 +26,9 @@ Create an app that will check 3 user input numbers to make sure that they can be
 
 | Behavior | Input | Output |  Completed(Y/N?)  |
 | -------- | ----- | ------ | -------- |
-| 1. Program will determine if 3 user input numbers can equal a triangle | 2,2,2 | True | N |
-| 2. Will determine if the 3 numbers are equal | 2,2,2 | Equilateral | N |
-| 3. Will check to see if only 2 sides are equal | 2,2,4 | Isosceles | N |
-| 4. Will check if the 3 sides are not equal | 2,3,4 | Scalene | N |
-| 5. A user enters 3 numbers and the program will return not a triangle | 15 | N |
+| 1. Will check to see if word is a palindrome |  racecar | Palindrome! | N |
+| 2. Will determine if a phrase is a palindrome | step on no pets | Palindrome! | N |
+| 3. Will determine if a phrase is a palindrome with capitalization | Mr. Owl ate my metal worm | Palindrome! | N |
 
 ## Known Bugs
 
@@ -55,4 +53,4 @@ Please feel free to contact me through GitHub (username: brussell36) with any qu
 
 *This site is licensed under the MIT license.*
 
-Copyright (c) 2020 **_Sara Kane & Christine Augustine & Benjamin Russell 
+Copyright (c) 2020 **_Sara Kane & Christine Augustine & Benjamin Russell_
